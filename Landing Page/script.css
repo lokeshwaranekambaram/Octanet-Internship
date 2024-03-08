@@ -1,0 +1,54 @@
+
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+    }
+    header {
+        background-color: #333;
+        color: #fff;
+        padding: 10px 0;
+        text-align: center;
+    }
+    nav {
+        display: inline-block;
+    }
+    nav a {
+        color: #fff;
+        text-decoration: none;
+        margin: 0 10px;
+    }
+    .top {
+        background-image: url('https://cdn.tourradar.com/s3/serp/original/223205_tetxUVKy.jpg');
+        background-size: cover;
+        background-position: center;
+        text-align: center;
+        padding: 100px 0;
+    }
+    .top h1 {
+        font-size: 2.5rem;
+        margin-bottom: 20px;
+    }
+    .control-button {
+        display: inline-block;
+        padding: 10px 20px;
+        background-color: #333;
+        color: #fff;
+        text-decoration: none;
+        border-radius: 5px;
+        margin-top: 20px;
+    }
+    .main {
+        padding: 50px 0;
+        text-align: center;
+    }
+    .topic {
+        display: inline-block;
+        width: 30%;
+        margin: 0 2%;
+        vertical-align: top;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+    }
+
